@@ -14,4 +14,4 @@ local function LoadGame(password, rawUrl, targetId, isEnabled)
 end
 
 
-LoadGame("ID]7HeRVs3pSqzM+SOlr57knutw]U2l5", "https://raw.githubusercontent.com/Kairo-afk-bit/Hub/refs/heads/main/Script/Build%20And%20Survive", 128263975853774, true)
+LoadGame("ID]7HeRVs3pSqzM+SOlr57knutw]U2l5", "https://raw.githubusercontent.com/Dynamao/Hub/refs/heads/main/Script/Build%20And%20Survive", 128263975853774, true)
